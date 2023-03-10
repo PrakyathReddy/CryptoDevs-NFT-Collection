@@ -1,1 +1,3 @@
 CryptoDevs contract Address:  0x03FbD1A686ccE9D227Bc534D9a08875afE8C9165
+new NFT Contract Address
+CryptoDevs contract Address:  0x4D89B91E18CB9ef3db5f41dF8b26f20772B7Ba81
